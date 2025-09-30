@@ -1,0 +1,2 @@
+# redz
+script
