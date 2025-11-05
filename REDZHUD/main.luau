@@ -24,7 +24,7 @@ do
 	_ENV.rz_execute_debounce = tick()
 end
 
-urls.Owner = "https://github.com/khang783/redz/tree/main/REDZHUD";
+urls.Owner = "https://github.com/khang783/redz/refs/heads/main/REDZHUD/";
 urls.Repository = urls.Owner .. "REDZHUD/refs/heads/main/";
 urls.Translator = urls.Repository .. "Translator/";
 urls.Utils = urls.Repository .. "Utils/";
